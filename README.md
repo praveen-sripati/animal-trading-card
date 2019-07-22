@@ -4,5 +4,5 @@ An animal trading card which holds information of an animal (Tiger). It is a sam
 
 # Snapshot
 
-![alt animal-trading-card-screenshot](https://github.com/praveen-sripati/animal-trading-card/blob/master/screenshot.png =716×1454)
+![alt animal-trading-card-screenshot](https://github.com/praveen-sripati/animal-trading-card/blob/master/screenshot.png =716x1454)
 
